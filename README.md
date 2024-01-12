@@ -44,6 +44,3 @@ Esta é uma API simples de gerenciamento de carros desenvolvida com Flask em Pyt
         "ano": 2022
     }
     ```
-
-## Observações
-- A API inicia com alguns carros predefinidos.
