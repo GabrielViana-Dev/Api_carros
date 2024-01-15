@@ -1,7 +1,7 @@
 # API de Gerenciamento de Carros com Flask
 
 ## Descrição
-Esta é uma API simples de gerenciamento de carros desenvolvida com Flask em Python. Utiliza a classe `Carros` para representar carros e fornece endpoints para listar, detalhar, criar, editar e excluir carros. A API inicia com uma lista de carros predefinidos.
+Esta é uma API de gerenciamento de carros desenvolvida com Flask em Python. Utiliza a classe `Carros` para representar carros e fornece endpoints para listar, detalhar, criar, editar e excluir carros. A API inicia com uma lista de carros predefinidos.
 
 ## Tecnologias Utilizadas
 - Python
